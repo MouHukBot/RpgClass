@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\Rpg Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00A6BD11-7120-4CC6-8E20-6E7A355E5831}|Rpg Class\\Rpg Class.csproj|c:\\users\\andre\\source\\repos\\rpg class\\rpg class\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A6BD11-7120-4CC6-8E20-6E7A355E5831}|Rpg Class\\Rpg Class.csproj|solutionrelative:rpg class\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A6BD11-7120-4CC6-8E20-6E7A355E5831}|Rpg Class\\Rpg Class.csproj|c:\\users\\andre\\source\\repos\\rpg class\\rpg class\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A6BD11-7120-4CC6-8E20-6E7A355E5831}|Rpg Class\\Rpg Class.csproj|solutionrelative:rpg class\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A6BD11-7120-4CC6-8E20-6E7A355E5831}|Rpg Class\\Rpg Class.csproj|c:\\users\\andre\\source\\repos\\rpg class\\rpg class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A6BD11-7120-4CC6-8E20-6E7A355E5831}|Rpg Class\\Rpg Class.csproj|solutionrelative:rpg class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A6BD11-7120-4CC6-8E20-6E7A355E5831}|Rpg Class\\Rpg Class.csproj|c:\\users\\andre\\source\\repos\\rpg class\\rpg class\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A6BD11-7120-4CC6-8E20-6E7A355E5831}|Rpg Class\\Rpg Class.csproj|solutionrelative:rpg class\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Rpg Class\\Rpg Class\\Player.cs",
+              "RelativeDocumentMoniker": "Rpg Class\\Player.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Rpg Class\\Rpg Class\\Player.cs",
+              "RelativeToolTip": "Rpg Class\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:37:26.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Rpg Class\\Rpg Class\\Inventory.cs",
+              "RelativeDocumentMoniker": "Rpg Class\\Inventory.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Rpg Class\\Rpg Class\\Inventory.cs",
+              "RelativeToolTip": "Rpg Class\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:36:50.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Rpg Class\\Rpg Class\\Storage.cs",
+              "RelativeDocumentMoniker": "Rpg Class\\Storage.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Rpg Class\\Rpg Class\\Storage.cs",
+              "RelativeToolTip": "Rpg Class\\Storage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:35:58.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Rpg Class\\Rpg Class\\Program.cs",
+              "RelativeDocumentMoniker": "Rpg Class\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Rpg Class\\Rpg Class\\Program.cs",
+              "RelativeToolTip": "Rpg Class\\Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAALMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T13:27:42.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
